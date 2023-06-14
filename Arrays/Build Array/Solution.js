@@ -8,7 +8,6 @@ function buildArray(nums) {
     return ans;
     
 }
-
 let nums = [0,2,1,5,3,4];
 let Array = buildArray();
 console.log(Array);
