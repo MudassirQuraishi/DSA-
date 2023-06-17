@@ -1,3 +1,5 @@
+//Write a program to Swap two Variables a and b (Swapping basically means interchanging)
+
 function swap(a,b){
     let temp =a;
     a=b;
@@ -5,4 +7,4 @@ function swap(a,b){
     console.log(a);
     console.log(b);
 }
-swap(4,3);
+swap(4,5);
