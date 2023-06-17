@@ -1,0 +1,7 @@
+//Write a program to print the maximum of two numbers using Ternary operator.
+
+function max (a,b){
+    return (a>b) ? a : b;
+}
+var result = max(6,10);
+console.log(result);
