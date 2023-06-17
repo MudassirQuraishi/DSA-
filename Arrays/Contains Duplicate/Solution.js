@@ -8,4 +8,5 @@ function containsDuplicate(nums){
     }
     return false;
 }
+
 console.log(containsDuplicate(nums));
