@@ -7,4 +7,4 @@ function swap(a,b){
     console.log(a);
     console.log(b);
 }
-swap(4,5);
+swap(4,10);
